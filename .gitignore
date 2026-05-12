@@ -1,0 +1,5 @@
+build/
+keys/bundle-signing.pem
+__pycache__/
+*.pyc
+.DS_Store
